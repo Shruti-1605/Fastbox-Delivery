@@ -1,0 +1,255 @@
+{
+    "base_case": {
+        "A1": {
+            "packages_delivered": 2,
+            "total_distance": 131.07,
+            "efficiency": 65.53
+        },
+        "A2": {
+            "packages_delivered": 2,
+            "total_distance": 82.97,
+            "efficiency": 41.48
+        },
+        "A3": {
+            "packages_delivered": 1,
+            "total_distance": 14.66,
+            "efficiency": 14.66
+        },
+        "best_agent": "A3"
+    },
+    "test_case_1": {
+        "A1": {
+            "packages_delivered": 4,
+            "total_distance": 79.36,
+            "efficiency": 19.84
+        },
+        "A2": {
+            "packages_delivered": 1,
+            "total_distance": 35.0,
+            "efficiency": 35.0
+        },
+        "A3": {
+            "packages_delivered": 7,
+            "total_distance": 192.35,
+            "efficiency": 27.48
+        },
+        "A4": {
+            "packages_delivered": 0,
+            "total_distance": 0.0,
+            "efficiency": 0.0
+        },
+        "best_agent": "A1"
+    },
+    "test_case_10": {
+        "A1": {
+            "packages_delivered": 0,
+            "total_distance": 0.0,
+            "efficiency": 0.0
+        },
+        "A2": {
+            "packages_delivered": 2,
+            "total_distance": 39.34,
+            "efficiency": 19.67
+        },
+        "A3": {
+            "packages_delivered": 3,
+            "total_distance": 153.79,
+            "efficiency": 51.26
+        },
+        "A4": {
+            "packages_delivered": 6,
+            "total_distance": 81.77,
+            "efficiency": 13.63
+        },
+        "best_agent": "A4"
+    },
+    "test_case_2": {
+        "A1": {
+            "packages_delivered": 7,
+            "total_distance": 191.87,
+            "efficiency": 27.41
+        },
+        "A2": {
+            "packages_delivered": 3,
+            "total_distance": 72.96,
+            "efficiency": 24.32
+        },
+        "A3": {
+            "packages_delivered": 0,
+            "total_distance": 0.0,
+            "efficiency": 0.0
+        },
+        "best_agent": "A2"
+    },
+    "test_case_3": {
+        "A1": {
+            "packages_delivered": 0,
+            "total_distance": 0.0,
+            "efficiency": 0.0
+        },
+        "A2": {
+            "packages_delivered": 2,
+            "total_distance": 76.14,
+            "efficiency": 38.07
+        },
+        "A3": {
+            "packages_delivered": 3,
+            "total_distance": 64.0,
+            "efficiency": 21.33
+        },
+        "A4": {
+            "packages_delivered": 1,
+            "total_distance": 23.32,
+            "efficiency": 23.32
+        },
+        "best_agent": "A3"
+    },
+    "test_case_4": {
+        "A1": {
+            "packages_delivered": 3,
+            "total_distance": 73.51,
+            "efficiency": 24.5
+        },
+        "A2": {
+            "packages_delivered": 3,
+            "total_distance": 70.24,
+            "efficiency": 23.41
+        },
+        "A3": {
+            "packages_delivered": 6,
+            "total_distance": 144.52,
+            "efficiency": 24.09
+        },
+        "A4": {
+            "packages_delivered": 0,
+            "total_distance": 0.0,
+            "efficiency": 0.0
+        },
+        "A5": {
+            "packages_delivered": 0,
+            "total_distance": 0.0,
+            "efficiency": 0.0
+        },
+        "best_agent": "A2"
+    },
+    "test_case_5": {
+        "A1": {
+            "packages_delivered": 0,
+            "total_distance": 0.0,
+            "efficiency": 0.0
+        },
+        "A2": {
+            "packages_delivered": 0,
+            "total_distance": 0.0,
+            "efficiency": 0.0
+        },
+        "A3": {
+            "packages_delivered": 5,
+            "total_distance": 113.91,
+            "efficiency": 22.78
+        },
+        "A4": {
+            "packages_delivered": 5,
+            "total_distance": 168.9,
+            "efficiency": 33.78
+        },
+        "A5": {
+            "packages_delivered": 0,
+            "total_distance": 0.0,
+            "efficiency": 0.0
+        },
+        "best_agent": "A3"
+    },
+    "test_case_6": {
+        "A1": {
+            "packages_delivered": 1,
+            "total_distance": 21.31,
+            "efficiency": 21.31
+        },
+        "A2": {
+            "packages_delivered": 0,
+            "total_distance": 0.0,
+            "efficiency": 0.0
+        },
+        "A3": {
+            "packages_delivered": 4,
+            "total_distance": 88.51,
+            "efficiency": 22.13
+        },
+        "A4": {
+            "packages_delivered": 4,
+            "total_distance": 101.94,
+            "efficiency": 25.48
+        },
+        "best_agent": "A1"
+    },
+    "test_case_7": {
+        "A1": {
+            "packages_delivered": 0,
+            "total_distance": 0.0,
+            "efficiency": 0.0
+        },
+        "A2": {
+            "packages_delivered": 1,
+            "total_distance": 38.02,
+            "efficiency": 38.02
+        },
+        "A3": {
+            "packages_delivered": 6,
+            "total_distance": 109.19,
+            "efficiency": 18.2
+        },
+        "A4": {
+            "packages_delivered": 3,
+            "total_distance": 65.13,
+            "efficiency": 21.71
+        },
+        "best_agent": "A3"
+    },
+    "test_case_8": {
+        "A1": {
+            "packages_delivered": 1,
+            "total_distance": 26.2,
+            "efficiency": 26.2
+        },
+        "A2": {
+            "packages_delivered": 5,
+            "total_distance": 104.9,
+            "efficiency": 20.98
+        },
+        "A3": {
+            "packages_delivered": 5,
+            "total_distance": 116.75,
+            "efficiency": 23.35
+        },
+        "A4": {
+            "packages_delivered": 0,
+            "total_distance": 0.0,
+            "efficiency": 0.0
+        },
+        "best_agent": "A2"
+    },
+    "test_case_9": {
+        "A1": {
+            "packages_delivered": 3,
+            "total_distance": 63.87,
+            "efficiency": 21.29
+        },
+        "A2": {
+            "packages_delivered": 2,
+            "total_distance": 40.86,
+            "efficiency": 20.43
+        },
+        "A3": {
+            "packages_delivered": 3,
+            "total_distance": 91.67,
+            "efficiency": 30.56
+        },
+        "A4": {
+            "packages_delivered": 0,
+            "total_distance": 0.0,
+            "efficiency": 0.0
+        },
+        "best_agent": "A2"
+    }
+}
