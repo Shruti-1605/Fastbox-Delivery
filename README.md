@@ -1,4 +1,4 @@
-# 📦 FastBox Delivery Simulator
+#  FastBox Delivery Simulator
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
@@ -8,7 +8,7 @@ An enterprise-grade, high-performance logistics simulation engine designed for *
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The simulation engine is designed using **Object-Oriented Programming (OOP)** principles and the **Strategy Pattern** to ensure high decoupling, testability, and extensibility.
 
@@ -43,7 +43,7 @@ graph TD
 
 ---
 
-## 📈 Key Architecture Patterns
+##  Key Architecture Patterns
 
 1. **Strategy Pattern (Decoupled Deciders):** 
    Both agent selection algorithms and delay multipliers are modeled as polymorphic interfaces (`AgentAssignmentStrategy` and `DelayStrategy`). This allows developers to introduce new logistics logic without altering the simulation loop.
@@ -56,7 +56,7 @@ graph TD
 
 ---
 
-## 🧮 Mathematical Formulations
+##  Mathematical Formulations
 
 ### 1. Distance Calculation (Euclidean Metric)
 For any two coordinates $P_1(x_1, y_1)$ and $P_2(x_2, y_2)$, the straight-line distance is computed as:
@@ -72,7 +72,7 @@ $$\text{Efficiency} = \frac{\text{Total Distance Traveled}}{\text{Total Packages
 
 ---
 
-## 🌟 Bonus Features Implemented
+##  Bonus Features Implemented
 
 *   **Random Delivery Delays:** Simulates variable real-world factors (traffic, weather) by applying a random delay coefficient between $1.0$ and $1.2$ to destination routes.
 *   **ASCII Route Visualization Grid:** Draws a real-time, scaled 2D spatial grid representation of the coordinate plane for each delivery showing the path taken.
@@ -81,7 +81,7 @@ $$\text{Efficiency} = \frac{\text{Total Distance Traveled}}{\text{Total Packages
 
 ---
 
-## 📂 Project Tree
+##  Project Tree
 
 ```
 Fastbox-Delivery/
@@ -104,7 +104,7 @@ Fastbox-Delivery/
 
 ---
 
-## ⚙️ Configuration & Execution Guide
+##  Configuration & Execution Guide
 
 ### Prerequisites
 * Python 3.8 or higher.
@@ -141,7 +141,7 @@ python delivery_simulator.py --strategy load_balanced --alpha 12.5
 
 ---
 
-## 🗺️ ASCII Map Guide
+## ASCII Map Guide
 
 When running with `--visualize`, each delivery prints a grid showing:
 
@@ -168,7 +168,7 @@ Legend: A2*=Agent Start, W2=Warehouse, DST=Destination, *=To WH, #=To DST
 
 ---
 
-## 🧪 Testing
+##  Testing
 Run the automated test suite to ensure mathematical and logical accuracy:
 ```bash
 python -m pytest
