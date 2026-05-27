@@ -1,12 +1,12 @@
 Dataset,Best Agent,Packages Delivered,Total Distance,Efficiency
-base_case,A3,1,14.66,14.66
-test_case_1,A1,4,79.36,19.84
-test_case_10,A4,6,81.77,13.63
-test_case_2,A2,3,72.96,24.32
-test_case_3,A3,3,64.0,21.33
-test_case_4,A2,3,70.24,23.41
-test_case_5,A3,5,113.91,22.78
-test_case_6,A1,1,21.31,21.31
-test_case_7,A3,6,109.19,18.2
-test_case_8,A2,5,104.9,20.98
-test_case_9,A2,2,40.86,20.43
+base_case,A3,1,14.14,14.14
+test_case_1,A1,4,75.83,18.96
+test_case_10,A4,6,77.55,12.92
+test_case_2,A2,3,69.98,23.33
+test_case_3,A3,3,60.95,20.32
+test_case_4,A3,6,137.77,22.96
+test_case_5,A3,5,109.04,21.81
+test_case_6,A3,4,82.56,20.64
+test_case_7,A3,6,105.44,17.57
+test_case_8,A2,5,101.45,20.29
+test_case_9,A2,2,39.55,19.77
